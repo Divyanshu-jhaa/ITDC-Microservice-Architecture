@@ -25,4 +25,4 @@ A scalable, modular system built using a microservice architecture with React fr
 All client requests pass through the API Gateway, which connects to individual services registered via Eureka. Services wake up dynamically via Render's free tier logic. The frontend is fully reactive and communicates securely with backend services.
 
 ## 🚀 Live Demo (Optional)
-Coming Soon / [your-link-here]
+https://itdc-client.onrender.com
