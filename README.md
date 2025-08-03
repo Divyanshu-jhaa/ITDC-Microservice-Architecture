@@ -5,7 +5,7 @@ A scalable, modular system built using a microservice architecture with React fr
 ## 🔧 Repositories
 
 - 🚪 **API Gateway** – [itdc-api-gateway](https://github.com/Divyanshu-jhaa/itdc-api-gateway)
-- 🌐 **Service Discovery (Eureka)** – [itdc-discovery-server](https://github.com/Divyanshu-jhaa/itdc-discovery-server)
+- 🌐 **Service Discovery (Eureka)** – [itdc-discovery-server](https://github.com/Divyanshu-jhaa/itdc-service-discovery)
 - 👤 **User Service** – [itdc-user-service](https://github.com/Divyanshu-jhaa/itdc-user-service)
 - 🛠️ **Admin Service** – [itdc-admin-service](https://github.com/Divyanshu-jhaa/itdc-admin-service)
 - 🖥️ **React Frontend** – [itdc-frontend](https://github.com/Divyanshu-jhaa/itdc-client)
